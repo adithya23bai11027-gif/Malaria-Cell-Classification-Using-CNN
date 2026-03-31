@@ -2,7 +2,7 @@
 
 ## Project Title: Malaria Cell Classifier CNN
 
-### Author: lancelot3405  
+### Author:adithya23bai11027   
 ### Date: 2026-03-26 08:47:08
 
 ---
